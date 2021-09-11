@@ -1,4 +1,4 @@
-Pixels of AI
+# Pixels of AI
 
 My project is about pixels, and how to create apps/games using pixels, Pixels are a really impressing way to use AI.
 
